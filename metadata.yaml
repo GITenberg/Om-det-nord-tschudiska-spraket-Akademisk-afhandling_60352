@@ -1,5 +1,8 @@
 _repo: Om-det-nord-tschudiska-spraket-Akademisk-afhandling_60352
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lönnrot, Elias
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Elias_L%C3%B6nnrot
     - https://fi.wikipedia.org/wiki/Elias_L%C3%B6nnrot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60352#Om-det-nord-tschudiska-spraket-Akademisk-afhandling
 gutenberg_issued: '2019-09-25'
 gutenberg_type: Text
 identifiers:
