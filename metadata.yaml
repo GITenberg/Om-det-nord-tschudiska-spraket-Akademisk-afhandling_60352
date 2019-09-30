@@ -1,0 +1,30 @@
+_repo: Om-det-nord-tschudiska-spraket-Akademisk-afhandling_60352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lönnrot, Elias
+    alias: Lonnrot, Elias
+    birthdate: 1802
+    deathdate: 1884
+    gutenberg_agent_id: '4153'
+    url: http://www.gutenberg.org/2009/agents/4153
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Elias_L%C3%B6nnrot
+    - https://fi.wikipedia.org/wiki/Elias_L%C3%B6nnrot
+description: ''
+gutenberg_issued: '2019-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60352'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Veps language'
+- !lcc 'PH'
+- GITenberg
+title: 'Om det nord-tschudiska språket
+
+  Akademisk afhandling'
+url: http://www.gutenberg.org/ebooks/60352
